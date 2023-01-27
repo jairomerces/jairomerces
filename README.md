@@ -5,7 +5,6 @@
       <li> 🎓 Cursando Análise e Desenvolvimento de Sistemas pela Uniasselvi</li>
       <li> 🎯 Focado no aprendizado 📚 contínuo </li>
       <li> 🔭 Em busca de oportunidade como Software tester Jr </li>
-      <li> 📫 E-mail: jairomerces@gmail.com </li>
 </ul>
 <br>
 <h3 align="justify"> 👨‍💻 Apredendo atualmente as tecnologias: </h3>
