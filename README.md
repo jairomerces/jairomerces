@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" width="47%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairomerces&show_icons=true&theme=radical)" />
+<img align="left" width="47%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairomerces&show_icons=true&theme=dark)" />
 
 
 <picture>
