@@ -1,15 +1,13 @@
 <h2>👋🏽😎 Olá! Me chamo Jairo Mercês</h2>
 
-<div>
-<p align="justify">Minha relação com TI foi oficializada há cerca de 10 anos, mas antes disso, como muitos de nós, comecei atuando freelancer como o "famigerado" técnico de informática, ao entrar no mercado formalmente, vivenciei a maior parte de minhas experiências atuando com o Service Desk, tanto na operação quanto na liderança. Mas minha paixão sempre foi desenvolvimento e qualidade, dito isso, retomei os estudos. Nesse momento estou cursando Análise e Desenvolvimento de Sistemas pela Uniasselvi, mas também estou cursando pela DIO para aprimorar minhas habilidades, focado em Full Stack e QA.</p>
-</div>
 <ul>
       <li> 🤩 Aficionado por tecnologia </li>
+      <li> 🎓 Cursando Análise e Desenvolvimento de Sistemas pela Uniasselvi</li>
       <li> 🎯 Focado no aprendizado 📚 contínuo </li>
       <li> 🔭 Em busca de oportunidade como Software tester Jr </li>
       <li> 📫 E-mail: jairomerces@gmail.com </li>
 </ul>
-<h3>💻 Apredendo atualmente as tecnologias: </h3>
+<h3> 👨‍💻 Apredendo atualmente as tecnologias: </h3>
   <div style="display: inline_block">
       <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
       <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -29,7 +27,16 @@
   </div>
 <br></br> 
 <h3> 📊 Desempenho: </h3>
-<section>
+<div>
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jairomerces&show_icons=true&theme=radical" />
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairomerces&layout=compact" />
-</section>
+</div>
+<br></br>
+<h3> 💬 Social: </h3>
+   <div style="display: inline_block">
+      <a href="https://www.linkedin.com/in/jairo-merces/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="https://www.instagram.com/mercesjairo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/jairomsou" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+      <a href = "mailto:jairomerces@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>       
+   </div> 
+<br></br>   
