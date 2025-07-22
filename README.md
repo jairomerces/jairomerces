@@ -25,6 +25,13 @@
   </div>
 </br>
 <br>
+<h3 align="justify"> 💾 Databases: </h3>
+  <div style="display: inline_block">     
+      <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img align="left" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  </div>
+</br>
+<br>
 <h3 align="justify"> 💻 IDEs/Editors: </h3>
   <div style="display: inline_block">
       <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
