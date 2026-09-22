@@ -61,10 +61,10 @@
       <a href = "mailto:jairomerces@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>       
    </div> 
 </br>   
-<br>
+<!--<br>
 <h3 align="justify"> 📊 Desempenho: </h3>
 <div>
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=jairomerces&show_icons=true&theme=radical" />
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairomerces&layout=compact" />
 </div>
-</br>
+</br>-->
