@@ -1,9 +1,10 @@
 <h2 align="justify">👋🏽😎 Olá! Me chamo Jairo Mercês</h2>
 
 <ul>
-      <li> 🤩 Aficionado por tecnologia </li>
-      <li> 🎓 Cursando Análise e Desenvolvimento de Sistemas pela Uniasselvi</li>
-      <li> 🎯 Focado no aprendizado 📚 contínuo </li>  
+      <li> 🤩 Aficionado por tecnologia e seus benefícios para as pessoas</li>
+      <li> 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Uniasselvi</li>
+      <li> 🎓 Cursando MBA em Arquitetura de Sistemas e Engenharia de Software pela Uniasselvi</li>
+      <li> 🎯 Continuar evoluindo como profissional de desenvolvimento, unindo a experiência em suporte e operações com a capacidade de criar, manter e melhorar sistemas </li>  
 </ul>
 <br>
 <h3 align="justify"> 📋 Languages: </h3>
